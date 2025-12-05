@@ -1,4 +1,6 @@
-**EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
+
+
+…**EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
 DATE: 
 
 **  
@@ -22,7 +24,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+![WhatsApp Image 2025-12-05 at 15 25 15_8674406e](https://github.com/user-attachments/assets/b3a83972-b1a4-4c10-98ea-eeceb6a36e03)
+
 
 
 ---
@@ -30,8 +33,8 @@ DATE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 19 50_7bd9f750](https://github.com/user-attachments/assets/de7b69de-d959-455b-a580-69527bf525d1)
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
 
 ---
 
@@ -39,10 +42,12 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 30 01_ca779b3c](https://github.com/user-attachments/assets/fbfe30e2-cfb7-4211-9c62-602e35a6f038)
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 16 47_560ce895](https://github.com/user-attachments/assets/6c845f4d-1f55-4644-ac00-2cdd77de04d5)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -51,9 +56,11 @@ PASTE THE OUTPUT WAVEFORM HERE
 PASTE THE CIRCUIT HERE
 ---
 
+![WhatsApp Image 2025-12-05 at 16 22 43_995a86b4](https://github.com/user-attachments/assets/55a04a96-4bc9-4ee2-af79-59d5be0cf2ab)
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 16 48_033f2e1e](https://github.com/user-attachments/assets/626d5a6d-8404-4c7d-a61c-11748e501c1f)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -61,10 +68,12 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 54 17_ebf7e933](https://github.com/user-attachments/assets/c90380bd-f1a4-49fd-ada5-56f2011bb0c9)
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 25 53_57d8bb68](https://github.com/user-attachments/assets/992097e6-7d3e-405e-a3d7-d62b4dd122e6)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
