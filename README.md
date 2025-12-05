@@ -22,7 +22,7 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+![WhatsApp Image 2025-12-05 at 15 30 01_44453703](https://github.com/user-attachments/assets/ca40a195-25cf-4817-a1d6-2359cc82fa04)
 
 
 ---
