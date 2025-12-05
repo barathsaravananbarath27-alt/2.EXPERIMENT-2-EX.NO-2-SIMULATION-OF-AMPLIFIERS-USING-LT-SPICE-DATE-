@@ -39,10 +39,12 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 40 23_d0b29992](https://github.com/user-attachments/assets/e5b1762e-d2b3-44f9-85f4-aa278003d58e)
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 16 47_b95ee94e](https://github.com/user-attachments/assets/565c801c-406d-4d4c-a9ed-753fc907b773)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -50,10 +52,12 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 16 22 43_af73cd6d](https://github.com/user-attachments/assets/0863b849-ec60-46b8-8e49-3c5f3b3f7e2c)
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 16 48_03b83522](https://github.com/user-attachments/assets/b9cd478d-0761-42fa-8e99-e87c9b2f29bf)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
@@ -61,10 +65,12 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 54 17_e505458a](https://github.com/user-attachments/assets/f684f88b-a105-49c0-a1a2-d95b3ae94f73)
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 16 25 53_ef9a2c78](https://github.com/user-attachments/assets/0249d058-a8f4-459c-bbe2-1a4abfb051cc)
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
